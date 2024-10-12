@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍🎓 I graduated from BFCAI<br>💻 Full stack developer <br>🧑‍💻 Angular & .NET<br>⚙️ Currently Works as a freelancer
+🧑‍🎓 Graduated from BFCAI<br>💻 Full stack developer <br>🧑‍💻 Angular & .NET<br>⚙️ Currently Works as a freelancer
 
 
 ## 🌐 Socials:
